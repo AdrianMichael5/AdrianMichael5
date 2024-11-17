@@ -30,6 +30,9 @@
   
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="28" alt="django-logo"  />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="java-script-logo"  />
+  <img width="12" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" height="28" alt="azure-logo"  />
   <img width="12" />
