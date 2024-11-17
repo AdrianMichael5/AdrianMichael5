@@ -12,8 +12,9 @@
 </div>
 <br/>
 <div align="center">  
-<a href="https://www.linkedin.com/in/adrian-michael-77b236282/" target="_blank" rel="noopener noreferrer""><img align="center" src="https://img.shields.io/badge/LinkedIn-5c0000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto: adrian_michael_araujo@hotmail.com?subject=Olá Adrian! Vi seu GitHub" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-5c0000?style=for-the-badge&logo=gmail&logoColor=white" alt="adrian_michael_araujo@hotmail.com" /></a>
+<a href="https://www.linkedin.com/in/adrian-michael-77b236282/" target="_blank" rel="noopener noreferrer""><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto: adrian_michael_araujo@hotmail.com?subject=Olá Adrian! Vi seu GitHub" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="adrian_michael_araujo@hotmail.com" /></a>
+
 </div>
 <br/>
 
@@ -21,25 +22,37 @@
 
 <br/>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python-logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c-logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="28" alt="django-logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" height="30" alt="next logo"  />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" height="28" alt="azure-logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="taildwind-logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5-logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" height="30" alt="c logo"  />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="30" alt="css3-logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg" height="30" alt="java logo"  />
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap-logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma-logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" height="28" alt="spring logo"  />
+  
+  
+  
 </div>
   
   
