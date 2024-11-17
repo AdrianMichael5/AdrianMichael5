@@ -1,18 +1,54 @@
-<h1 align="center">Bem Vindo!, Me chamo Adrian Michael</h1>
-<h3 align="center">Estudante de Ciência da Computação - Escola CESAR</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianmichael5&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmichael5" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Adrian+Michael;)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmichael5" alt="adrianmichael5" /></a> </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AdrianMichael5&show_icons=true&theme=transparent"/> 
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMichael5&layout=compact&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+<br/>
+<div align="center">  
+<a href="https://www.linkedin.com/in/adrian-michael-77b236282/" target="_blank" rel="noopener noreferrer""><img align="center" src="https://img.shields.io/badge/LinkedIn-5c0000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto: adrian_michael_araujo@hotmail.com?subject=Olá Adrian! Vi seu GitHub" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-5c0000?style=for-the-badge&logo=gmail&logoColor=white" alt="adrian_michael_araujo@hotmail.com" /></a>
+</div>
+<br/>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adrian michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian michael" height="30" width="40" /></a>
-</p>
+<h3 align="center" style="font-size:50px">👨‍💻 I work with:</h3>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selênio" largura="40" altura="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" largura="40" altura="40"/> </a> </p>
+<br/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" height="30" alt="next logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-plain.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" height="28" alt="spring logo"  />
+</div>
+  
+  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmichael5&show_icons=true&locale=en&layout=compact" alt="adrianmichael5" /></p>
+<br/>
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AdrianMichael5}/count.svg" /></p> 
+<br></div>
+  
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmichael5&show_icons=true&locale=en" alt="adrianmichael5" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/>
