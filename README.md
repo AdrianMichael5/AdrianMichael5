@@ -85,7 +85,7 @@ Includes automated E2E tests with **Cypress**, Jira-tracked sprints, and Figma p
 Modern landing page for a registry office, focused on service clarity and user conversion.  
 Built with **Next.js · TypeScript · JavaScript** — responsive and performance-optimized.
 
-[![Deploy](https://img.shields.io/badge/Live_on_Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://2rirecife.com.br/)
+[![Deploy](https://img.shields.io/badge/Deploy-000000?style=flat-square&logo=vercel&logoColor=white)](https://2rirecife.com.br/)
 
 ---
 
