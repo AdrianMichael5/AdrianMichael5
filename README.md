@@ -105,11 +105,3 @@ Built with **Spring Boot · Angular · PostgreSQL**.
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jpp000/ingressify)
 
 ---
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AdrianMichael5&theme=transparent&hide_border=true&ring=3178C6&fire=3178C6&currStreakLabel=3178C6)
-
-</div>
