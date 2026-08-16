@@ -23,7 +23,6 @@ Currently open to opportunities in **Backend**, **Frontend**, or **QA Engineerin
 
 - 🎓 B.Sc. Computer Science — CESAR School (2024–2027)
 - 🧑‍🏫 Former Teaching Assistant — Software Development Fundamentals
-- 🔭 Currently learning: Docker · CI/CD with GitHub Actions
 - 📍 Recife, Brazil · Open to remote
 - 📬 adrian_michael_araujo@hotmail.com
 
@@ -56,20 +55,13 @@ Currently open to opportunities in **Backend**, **Frontend**, or **QA Engineerin
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
 ## Featured Projects
-
-### 🌾 AGRAS — Agricultural Management System
-Web platform for organizing crop planning and field activity management.  
-Built with **Django · PostgreSQL** — includes automation with **Selenium**.
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/biacosta7/agras)
-
----
 
 ### ⚖️ Advocatus — Legal Management Platform
 Full-stack platform for law firms to manage clients, cases, and legal documents.  
@@ -103,5 +95,13 @@ Full-stack ticketing marketplace with authentication, payment flow simulation, a
 Built with **Spring Boot · Angular · PostgreSQL**.
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jpp000/ingressify)
+
+---
+
+### 🌾 AGRAS — Agricultural Management System
+Web platform for organizing crop planning and field activity management.  
+Built with **Django · PostgreSQL** — includes automation with **Selenium**.
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/biacosta7/agras)
 
 ---
